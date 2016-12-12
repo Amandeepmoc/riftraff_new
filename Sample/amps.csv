@@ -1,0 +1,12 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Note : Please only enter subcategory for  Amps & Cabinets category,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Riftraff Vendor Central Data Sheet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Sheet for Amps & Cabinets category,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,For enter values  of attributes start from row number 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+for heading use,Rift Raff Use,Required,Required,Required,Required,Required,Required,Conditional Manditory,Conditional Mandatory,Conditional Mandatory,Optional,Conditional Mandatory,Required,Required,Required,Required,Optional,Optional,Required,Required,Required,Required,Required,Conditional Mandatory,Required,Required,Required,Required,Required,Optional,Conditional Manditory,Conditional Manditory,Conditional Manditory,Conditional Manditory,Conditional Manditory,Conditional Manditory,Conditional Mandatory,Conditional Manditory,Optional
+for heading use,RR INV ID#,Vendor Code,Vendor SKU #,Model Number,UPC,Item Condition,Product Category,Sub Category Amps,Brand Name ,New Brand,Model Name,Color,Product Description,Bullet Feature 1 ,Bullet Feature 2,Bullet Feature 3,Bullet Feature 4,Bullet Feature 5,Search Keywords,Product Warranty,Country of Origin,Cost Price,Do you have an MSRP?,List Price or MSRP,MAP (Minimum Advertised Price),Package Length,Package Height,Package Width,Package Weight ,Model Year,Power and Preamp Type,Electronic Construction ,FX Loop,Reverb,On-Board Effects,On-Board Tuner,Speaker Configuration,Output Wattage (in watts),Number of Channels
+start values from here,,ABC123,,CM2VS,604310145672,New ,Amps & Cabinets,,PRS,,SE Custom 22,Vintage Sunburst,,,,,,,,Limited Lifetime,Korea,,No,,719,43,4.5,19,28,2016,,,,,,,,,

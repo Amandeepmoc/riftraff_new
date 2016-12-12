@@ -1,0 +1,12 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Note : Please only enter subcategory for guitars category,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Riftraff Vendor Central Data Sheet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Sheet for Guitars category,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,For enter values  of attributes start from row number 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+for heading use,Rift Raff Use,Required,Required,Required,Required,Required,Required,Conditional Manditory,Conditional Mandatory,Conditional Mandatory,Optional,Conditional Mandatory,Required,Required,Required,Required,Optional,Optional,Required,Required,Required,Required,Required,Conditional Mandatory,Required,Required,Required,Required,Required,Optional,Conditional Manditory,Conditional Mandatory,Conditional Mandatory,Conditional Mandatory,Conditional Mandatory,Conditional Mandatory,Conditional Mandatory,Conditional Mandatory,Conditionaly Manditory,Optional,Optional,Optional,Optional,Optional,Optional,Optional,Optional
+for heading use,RR INV ID#,Vendor Code,Vendor SKU #,Model Number,UPC,Item Condition,Product Category,Sub Category Guitars,Brand Name ,New Brand,Model Name,Color,Product Description,Bullet Feature 1 ,Bullet Feature 2,Bullet Feature 3,Bullet Feature 4,Bullet Feature 5,Search Keywords,Product Warranty,Country of Origin,Cost Price,Do you have an MSRP?,List Price or MSRP,MAP (Minimum Advertised Price),Package Length,Package Height,Package Width,Package Weight ,Model Year,Hand Orientation,Bridge Type,Pickup Configuration Neck,Pickup Configuration Middle,Pickup Configuration Bridge,Pickup Configuration Acoustic,Active Electronics,Number of Strings,Number of Frets,Scale Length (in inches),Nut Width (In inches),Fretboard Material,Back Material,Neck Material,Top Material,Side Material,included_components
+start values from here,,ABC123,,CM2VS,604310145672,New ,Guitar,Electric Guitar,PRS,,SE Custom 22,Vintage Sunburst,,,,,,,,Limited Lifetime,Korea,,No,,719,43,4.5,19,28,2016,Right,Tremolo,Humbucker,,Humbucker,,No,6,22,25,1.625,Rosewood,Mahogany,Mahogany,Maple,,Bag
